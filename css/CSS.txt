@@ -1,0 +1,40 @@
+title {
+    color: white;
+
+}    
+     </head>
+     <body>
+
+        h1 {
+            color: white;
+            text-align: center
+        }
+
+        /h1
+        p {
+            font-family: verdana;
+            font-size: 20px;
+        } 
+
+        /p
+
+        h3 {
+            color: deep blue;
+        }
+
+        /h3 {
+            color: navy;
+
+        }
+
+        h4 {
+            color: deep blue;
+        }
+
+        /h4 {
+            color: navy;
+
+        }
+        
+        </body>
+</html>
